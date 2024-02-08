@@ -6,19 +6,19 @@ This is a simple application built using Python and Tkinter that generates rando
 
 1. Clone the repository to your local machine:
 
-    ```bash
+    ```
     git clone https://github.com/Sujall10/random-password-generator.git
     ```
 
 2. Navigate to the project directory:
 
-    ```bash
+    ```
     cd random-password-generator
     ```
 
 3. Run the script:
 
-    ```bash
+    ```
     python password_generator.py
     ```
 
@@ -41,3 +41,13 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Author
 
 This project is maintained by Sujal Rajput.
+
+## Issues
+
+If you encounter any errors or have suggestions for improvements, feel free to contact me at [sujal0710rajput@gmail.com](mailto:sujal0710rajput@gmail.com).
+
+## Here is a SS of an output
+
+![random pwd generator](https://github.com/Sujall10/random-password-generator/assets/94795609/2f859ff6-e2a7-40ac-bb43-dd58ccf5f10f)
+
+
